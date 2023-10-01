@@ -35,7 +35,7 @@ const Resume = () => (
                 <a href={`#${sec.toLowerCase()}`}>{sec}</a>
               </h4>))}
           </div>
-          <a href="/path/to/resume.pdf" download="Resume.pdf">Download PDF</a>
+          <a href="/../data/resume/CV_LauYT.pdf" download="Resume.pdf">Download PDF</a>
         </div>
       </header>
       {Object.entries(sections).map(([name, Section]) => (
