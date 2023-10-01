@@ -35,7 +35,7 @@ const Resume = () => (
                 <a href={`#${sec.toLowerCase()}`}>{sec}</a>
               </h4>))}
           </div>
-          <a href="/../data/CV_LauYT.pdf" download="Resume.pdf">Download PDF</a>
+          <a href="https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:8dfc107e-4013-44b0-9f86-93837e1ff259" download="Resume.pdf">Download PDF</a>
         </div>
       </header>
       {Object.entries(sections).map(([name, Section]) => (
