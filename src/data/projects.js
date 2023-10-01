@@ -3,7 +3,7 @@ const data = [
   {
     title: 'Quantification of Brain Age by Functional MRI Data: Complexity and Functional Connectivity',
     subtitle: 'MRI study',
-    image: '/images/projects/brainscan.jpeg',
+    image: '/images/projects/brainscan.jpg',
     date: '2023-01-08',
     desc:
       'Assessing brain age by using MRI scans. '
@@ -13,7 +13,7 @@ const data = [
   {
     title: 'The Long-term Impact of Clozapine on Mortality, Hospitalization and Comorbidity in Patients with Schizophrenia',
     subtitle: 'Clozapine Mortality Study',
-    image: '/images/projects/clozapine.avif',
+    image: '/images/projects/clozapine.jpg',
     date: '2022-09-01',
     desc:
       'Examining the mortality rate and causes of deaths in Clozapine users in Schizophrenia. '
