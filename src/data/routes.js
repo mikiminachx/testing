@@ -1,7 +1,7 @@
 const routes = [
   {
     index: true,
-    label: "Yin Ting Meko Lau",
+    label: 'Yin Ting Meko Lau',
     path: '/',
   },
   {
