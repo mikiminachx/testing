@@ -16,6 +16,7 @@ const Index = () => (
             Received my bachelor&apos;s degree in Human Neuroscience
             from the University of Birmingham.<br />
             An aspiring Computational Neuroscientist.
+            Visit my <a href="https://github.com/mikiminachx">GitHub page</a>.
           </p>
         </div>
       </header>
