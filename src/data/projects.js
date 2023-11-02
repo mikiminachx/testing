@@ -1,4 +1,4 @@
-// TODO Add a couple lines about each project
+// Add a couple lines about each project
 const data = [
   {
     title: 'Reinforcement Learning in Iowa Gambling Task',
