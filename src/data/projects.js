@@ -7,7 +7,7 @@ const data = [
     image: '/images/projects/gambling.png',
     date: '2023-11-01',
     desc:
-      'Predicting the total money gained or lost using Reinforcement Learning (RL). '
+      'Predicting the total money gained or lost by using Reinforcement Learning (RL). '
       + "The data is trained with Deep Q-Learning (DQN) Reinforcement Learning "
       + "How well can the result be predicted with RL?",
   },
