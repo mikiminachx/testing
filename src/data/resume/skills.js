@@ -35,6 +35,11 @@ const skills = [
     category: ['Languages', 'Python', 'ML Engineering'],
   },
   {
+    title: 'Pytorch',
+    competency: 3,
+    category: ['ML Engineering', 'Python'],
+  },
+  {
     title: 'MATLAB',
     competency: 3,
     category: ['Languages'],

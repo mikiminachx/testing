@@ -9,7 +9,7 @@ const data = [
     desc:
       'Predicting the total money gained or lost using Reinforcement Learning (RL). '
       + 'The data is trained with Deep Q-Learning (DQN) Reinforcement Learning '
-      + "How well can the result be predicted with this method?",
+      + 'How well can the result be predicted with this method?',
   },
   {
     title: 'Quantification of Brain Age by Functional MRI Data: Complexity and Functional Connectivity',
